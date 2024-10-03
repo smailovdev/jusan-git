@@ -3,6 +3,8 @@
 Это проект для вывода моего персонального идентификатора на _образовательной платформе_ `stepik.org`.
 Скрипт username.sh выводит мое имя Dastan Smailov
 
+![](https://github.com/smailovdev/TechOrda/blob/main/git/4%20branch/jusan-logo.png?raw=true)
+
 ## Возможности (h2)
 
 Данный проект имеет следующий функционал.
